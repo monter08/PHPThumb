@@ -1,6 +1,7 @@
-[![Build Status](https://secure.travis-ci.org/masterexploder/PHPThumb.png?branch=master)](http://travis-ci.org/masterexploder/PHPThumb)
-
 # PHP Thumb
+
+Fork from [https://github.com/masterexploder/PHPThumb](https://github.com/masterexploder/PHPThumb) with fix for php 7.x 
+
 
 ## NOTICE -
 This project was recently updated to 2.0 and is PSR-0 compliant and supports Composer integration. Some parts of the documentation
@@ -16,7 +17,7 @@ It also features the ability to perform multiple manipulations per
 instance (also known as chaining), without the need to save and 
 re-initialize the class with every manipulation.
 
-More information and documentation is available at the project's wiki: [https://github.com/masterexploder/PHPThumb/wiki](https://github.com/masterexploder/PHPThumb/wiki)
+More information and documentation is available at the project's wiki: 
 
 ## Documentation / Help
 
